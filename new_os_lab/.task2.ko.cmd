@@ -1,0 +1,1 @@
+cmd_/home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/task2.ko := ld -r -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/task2.ko /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/task2.o /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/task2.mod.o;  true

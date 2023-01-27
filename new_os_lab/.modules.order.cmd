@@ -1,0 +1,1 @@
+cmd_/home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/modules.order := {   echo /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/task2.ko; :; } | awk '!x[$$0]++' - > /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/modules.order

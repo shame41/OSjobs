@@ -1,0 +1,1 @@
+cmd_/home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/Module.symvers := sed 's/ko$$/o/' /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/modules.order | scripts/mod/modpost -m -a -E  -o /home/shame41/2022work/hust_se_oslab/OSjobs/new_os_lab/Module.symvers -e -i Module.symvers   -T -
